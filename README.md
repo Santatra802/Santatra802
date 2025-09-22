@@ -1,5 +1,5 @@
 <p align="left" style="font-size:20px; color:#4CAF50;">
-  <em>Keep calm and git push ...</em>
+  <em>"Keep calm and git push ...🤟🏻"</em>
 </p>
 
 <h1 align="center">Hi there !</h1>
@@ -9,9 +9,7 @@
 ### 👩‍💻 About Me
 
 I study software engineering and databases, which means I spend 90% of my time coding and 10% pretending I understand what I just coded.
-
-I’ve learned that theory is like a tutorial video — helpful, but the real chaos starts when you press “Run.”
-
+I’ve learned that theory is like a tutorial video — helpful, but the real chaos starts when you press “Run...🥂”
 I thrive on technical challenges, caffeine, and the occasional existential crisis.  
 Oh, and teamwork. Because misery loves company.
 
