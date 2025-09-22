@@ -1,21 +1,18 @@
-<h1 align="center">Hey there, I'm Santatra </h1>
-
-<p align="center">
-  🎓 Software Engineering & Database student <br>
-  🖤 Dark theme enthusiast & caffeine-powered coder <br>
-  💡 Passionate about building, learning, and growing through code <br>
+<p align="left">
+  <strong>Keep calm and git push... </strong>
 </p>
+<h1 align="center">Hi there 👋</h1>
 
 ---
 
-### 🦄 About Me
+### 👩‍💻 About Me
 
-I study software engineering and databases — which means I spend 90% of my time coding and 10% pretending I understand what I just coded.
+I study software engineering and databases, which means I spend 90% of my time coding and 10% pretending I understand what I just coded.
 
-Theory is like a tutorial video: helpful, but the real chaos starts when you press “Run.”
+I’ve learned that theory is like a tutorial video — helpful, but the real chaos starts when you press “Run.”
 
 I thrive on technical challenges, caffeine, and the occasional existential crisis.  
-Teamwork? Absolutely. Because debugging is more fun when you suffer together.
+Oh, and teamwork. Because misery loves company.
 
 ---
 
