@@ -1,7 +1,8 @@
-<p align="left">
-  <strong>Keep calm and git push... </strong>
+<p align="left" style="font-size:20px; color:#4CAF50;">
+  <em>Keep calm and git push ...</em>
 </p>
-<h1 align="center">Hi there 👋</h1>
+
+<h1 align="center">Hi there !</h1>
 
 ---
 
