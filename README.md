@@ -46,6 +46,7 @@ Oh, and teamwork. Because misery loves company.
 ## 📫 Contact Me
 
 - 💌 [onjampitiavanasantatriniaina@gmail.com](mailto:onjampitiavanasantatriniaina@gmail.com)
+- 💼 [Onjampitiavana Santatriniaina](https://www.linkedin.com/in/onjampitiavana-santatriniaina)
 
 ---
 
