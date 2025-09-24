@@ -28,7 +28,8 @@ Oh, and teamwork. Because misery loves company.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=white)  
 
-**Tools** 
+**Tools**
+
 ![Supabase](https://img.shields.io/badge/-Supabase-0E1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)  
 ![GitHub](https://img.shields.io/badge/-GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)
