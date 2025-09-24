@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 I study software engineering and databases, which means I spend 90% of my time coding and 10% pretending I understand what I just coded.
-I’ve learned that theory is like a tutorial video — helpful, but the real chaos starts when you press “Run...🥂”
+Theory is great for learning… but the real show starts when you run your program and everything goes haywire 🥂.
 
 I thrive on technical challenges, caffeine, and the occasional existential crisis.  
 Oh, and teamwork. Because misery loves company.
