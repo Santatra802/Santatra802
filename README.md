@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About me
 
 I study software engineering and databases, which means I spend 90% of my time coding and 10% pretending I understand what I just coded.
 Theory is great for learning… but the real show starts when you run your program and everything goes haywire 🥂.
@@ -16,7 +16,7 @@ Oh, and teamwork. Because misery loves company.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
