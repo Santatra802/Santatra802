@@ -16,7 +16,7 @@ Oh, and teamwork. Because misery loves company.
 
 ---
 
-## 🛠️ Tech stack
+## ✨Tech stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
